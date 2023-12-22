@@ -1,6 +1,6 @@
 # 1. Project Title: Pacman
   He is laughing loud while travelling along the screen. In fact he is not. It is computer that assimlate as if pacman is laughing. Interestingly, it is JavaScript that swaps image icons, which were stored on the file, at certain time and position
-    ![Bus stop trucker screenshot](./imgs/pac_man.png "alternate image")
+    ![Bus stop trucker screenshot](./pac_man.png "alternate image")
 # 2. Motivation
    This is learning setup. This appilcation could not accomplish anything benefical than learning. 
 # 3. Build Status
